@@ -6,5 +6,6 @@ Projeto realizado utilizando Redux para controle e busca de usuários e seus res
 
 Aplicação desenvolvida para avaliação de vaga desenvolvedor ReactJS para a Mestres da Web.
 
-### `yarn start`
+## Run
+ `yarn start`
 
